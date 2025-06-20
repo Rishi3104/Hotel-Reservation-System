@@ -24,8 +24,8 @@ This project allows hotel staff to manage guest reservations, view records, and 
 | Language     | Java               |
 | Database     | MySQL              |
 | Connector    | JDBC (MySQL Driver)|
-| IDE Used     | IntelliJ / Eclipse / VSCode (any) |
-| DB Tool      | MySQL Workbench / CLI |
+| IDE Used     | IntelliJ           |
+| DB Tool      | MySQL Workbench    |
 
 ---
 
